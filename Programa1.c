@@ -1,10 +1,14 @@
+/*Fernando Covarrubias Romero
+la función main y la función imprimir*/
+
+
 #include <stdio.h>
 #include <string.h>
 // Prototipo o firma de las funciones del programa
 void imprimir(char[]);
 // Definición o implementación de la función main
 int main(){
-char nombre[] = "Facultad de Ingeniería";
+char nombre[] = "Facultad de Ingenieria";
 imprimir(nombre);
 }
 // Implementación de las funciones del programa
